@@ -1,0 +1,30 @@
+{
+    /* 
+     * Example Waybar configuration with Pomodoro module (JSONC format)
+     * Waybar uses JSON with comments (JSONC), which is not standard JSON
+     * Copy the "custom/tomatobar" section to your own Waybar config
+     */
+    
+    "layer": "top",
+    "modules-left": ["sway/workspaces", "sway/mode"],
+    "modules-center": ["custom/tomatobar"],
+    "modules-right": ["clock", "battery"],
+    
+    /* Tomatobar module configuration */
+    "custom/tomatobar": {
+        "format": "{}",
+        "return-type": "json",
+        "exec": "python3 /path/to/tomatobar_module.py",
+        /* Update every second */
+        "interval": 1,
+        /* Define click actions */
+        "on-click": "python3 /path/to/tomatobar_module.py --action start",
+        "on-click-right": "python3 /path/to/tomatobar_module.py --action pause",
+        "on-click-middle": "python3 /path/to/tomatobar_module.py --action skip",
+        /* Optional: additional mouse buttons for more actions */
+        "on-scroll-up": "python3 /path/to/tomatobar_module.py --action reset",
+        "on-scroll-down": "python3 /path/to/tomatobar_module.py --action restart_cycle",
+        /* Tooltip shows the alternate text from the module */
+        "tooltip": true
+    }
+}

@@ -1,0 +1,50 @@
+2025-05-20 05:10:35,037 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:10:35,037 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:10:35,038 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:10:35,038 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:10:35,038 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:10:47,453 - tomatobar_backend - INFO - Received signal 2, shutting down...
+2025-05-20 05:11:09,579 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:11:09,580 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:11:09,580 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:11:09,580 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:11:09,580 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:11:11,303 - tomatobar_backend - INFO - Received signal 2, shutting down...
+2025-05-20 05:12:09,675 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:12:09,676 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:12:09,676 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:12:09,677 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:12:09,677 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:12:13,890 - tomatobar_backend - INFO - Received signal 2, shutting down...
+2025-05-20 05:13:06,725 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:13:06,725 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:13:06,725 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:13:06,726 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:13:06,726 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:13:40,494 - tomatobar_backend - INFO - Received signal 2, shutting down...
+2025-05-20 05:17:12,518 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:17:12,518 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:17:12,518 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:17:12,518 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:17:12,518 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:19:18,489 - tomatobar_backend - INFO - Received signal 2, shutting down...
+2025-05-20 05:19:19,778 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:19:19,778 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:19:19,779 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:19:19,779 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:19:19,779 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:19:38,991 - tomatobar_backend - INFO - Received signal 2, shutting down...
+2025-05-20 05:19:46,357 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:19:46,357 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:19:46,357 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:19:46,357 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:19:46,357 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:22:34,615 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:22:34,615 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:22:41,503 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:22:41,513 - tomatobar_backend - INFO - Logged work session: 7 seconds, completed: False
+2025-05-20 05:22:41,514 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:22:41,514 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:22:42,188 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:22:42,199 - tomatobar_backend - INFO - Logged work session: 1 seconds, completed: False
+2025-05-20 05:22:42,199 - tomatobar_backend - INFO - Reset timer

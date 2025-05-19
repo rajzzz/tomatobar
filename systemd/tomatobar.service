@@ -1,0 +1,12 @@
+[Unit]
+Description=Tomatobar Backend Service
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash %h/.local/bin/start.sh
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=graphical-session.target

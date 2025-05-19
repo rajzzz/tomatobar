@@ -1,0 +1,71 @@
+/* 
+ * Waybar Tomatobar Module Styling
+ * Add these styles to your Waybar CSS file (~/.config/waybar/style.css)
+ * Pastel theme colors for different Tomatobar states
+ */
+
+/* Base styles for the Tomatobar module */
+#custom-tomatobar {
+    font-family: "Ubuntu Nerd Font", sans-serif;
+    font-size: 14px;
+    padding: 0 10px;
+    margin: 0 5px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+}
+
+/* Work session - soft red pastel */
+#custom-tomatobar.work {
+    background-color: #ffb3b3;
+    color: #802020;
+}
+
+/* Short break - soft blue pastel */
+#custom-tomatobar.short_break {
+    background-color: #b3d9ff;
+    color: #204080;
+}
+
+/* Long break - soft green pastel */
+#custom-tomatobar.long_break {
+    background-color: #b3ffb3;
+    color: #206020;
+}
+
+/* Paused state - soft yellow pastel */
+#custom-tomatobar.paused {
+    background-color: #ffffb3;
+    color: #806020;
+    animation: blink 1.5s infinite;
+}
+
+/* Idle state - light gray pastel */
+#custom-tomatobar.idle {
+    background-color: #e0e0e0;
+    color: #505050;
+}
+
+/* Error state - light purple pastel */
+#custom-tomatobar.error {
+    background-color: #e6b3e6;
+    color: #602060;
+}
+
+/* Blinking animation for paused state */
+@keyframes blink {
+    0% {
+        opacity: 0.7;
+    }
+    50% {
+        opacity: 1.0;
+    }
+    100% {
+        opacity: 0.7;
+    }
+}
+
+/* Hover effect for all states */
+#custom-tomatobar:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}

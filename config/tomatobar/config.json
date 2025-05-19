@@ -1,0 +1,11 @@
+{
+    "work_duration_minutes": 25,
+    "short_break_duration_minutes": 5,
+    "long_break_duration_minutes": 15,
+    "pomodoros_before_long_break": 4,
+    "notification_sound_work_end": "",
+    "notification_sound_break_end": "",
+    "db_path": "~/.local/share/tomatobar/stats.db",
+    "status_file_path": "/tmp/tomatobar-status.json",
+    "fifo_path_commands": "/tmp/tomatobar-commands"
+}
