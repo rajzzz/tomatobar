@@ -2,6 +2,8 @@
 
 A feature-rich Pomodoro timer integrated with Waybar, featuring customizable durations, pastel theming, activity statistics, and optional screen blurring during breaks. This project is now named Tomatobar.
 
+![alt text](image.png)
+
 ## Features
 
 - 🍅 **Core Pomodoro Functionality**: Work sessions, short breaks, and long breaks with configurable durations

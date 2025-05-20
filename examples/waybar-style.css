@@ -16,33 +16,33 @@
 
 /* Work session - soft red pastel */
 #custom-tomatobar.work {
-    background-color: #ffb3b3;
-    color: #802020;
+    border-bottom: 2px solid #ad2929;
+    color: #ffb3b3;
 }
 
 /* Short break - soft blue pastel */
 #custom-tomatobar.short_break {
-    background-color: #b3d9ff;
-    color: #204080;
+    color: #b3d9ff;
+    border-bottom: 2px solid #204080;
 }
 
 /* Long break - soft green pastel */
 #custom-tomatobar.long_break {
-    background-color: #b3ffb3;
-    color: #206020;
+    color: #b3ffb3;
+    border-bottom: 2px solid #206020;
 }
 
 /* Paused state - soft yellow pastel */
 #custom-tomatobar.paused {
-    background-color: #ffffb3;
-    color: #806020;
+    color: #ffffb3;
+    border-bottom: 2px solid #806020;
     animation: blink 1.5s infinite;
 }
 
 /* Idle state - light gray pastel */
 #custom-tomatobar.idle {
-    background-color: #e0e0e0;
-    color: #505050;
+    border-bottom: 2px solid #e6e6e6;
+    color: #e0e0e0;
 }
 
 /* Error state - light purple pastel */

@@ -48,3 +48,132 @@
 2025-05-20 05:22:42,188 - tomatobar_backend - INFO - Received command: reset
 2025-05-20 05:22:42,199 - tomatobar_backend - INFO - Logged work session: 1 seconds, completed: False
 2025-05-20 05:22:42,199 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:25:58,778 - tomatobar_backend - INFO - Database setup complete: /home/raj/.local/share/tomatobar/stats.db
+2025-05-20 05:25:58,778 - tomatobar_backend - INFO - Command FIFO and status file path setup complete
+2025-05-20 05:25:58,779 - tomatobar_backend - INFO - Command listener started
+2025-05-20 05:25:58,779 - tomatobar_backend - INFO - Tomatobar Timer initialized
+2025-05-20 05:25:58,779 - tomatobar_backend - INFO - Starting main timer loop
+2025-05-20 05:28:08,213 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:28:08,215 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:28:12,701 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:28:16,041 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:28:16,053 - tomatobar_backend - INFO - Logged work session: 8 seconds, completed: False
+2025-05-20 05:28:16,054 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:28:16,054 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:28:16,090 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:28:16,093 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:28:16,094 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:28:16,094 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:28:16,122 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:28:16,125 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:28:16,126 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:28:16,126 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:28:16,573 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:28:16,585 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:28:16,585 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:28:16,643 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:28:16,644 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:28:51,928 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:28:51,929 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:28:53,584 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:28:55,093 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:28:58,396 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:28:58,407 - tomatobar_backend - INFO - Logged work session: 7 seconds, completed: False
+2025-05-20 05:28:58,407 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:28:58,807 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:28:58,808 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:28:58,808 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:28:58,901 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:28:58,921 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:28:58,921 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:28:58,921 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:29:00,669 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:29:00,681 - tomatobar_backend - INFO - Logged work session: 2 seconds, completed: False
+2025-05-20 05:29:00,682 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:29:00,711 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:29:00,712 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:29:00,768 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:29:00,769 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:29:00,817 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:29:00,817 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:32:01,003 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:32:01,004 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:19,422 - tomatobar_backend - INFO - Received command: skip
+2025-05-20 05:32:19,439 - tomatobar_backend - INFO - Logged work session: 18 seconds, completed: False
+2025-05-20 05:32:19,441 - tomatobar_backend - INFO - Logged work session: 18 seconds, completed: False
+2025-05-20 05:32:19,514 - tomatobar_backend - INFO - Notification sent: Pomodoro completed!
+2025-05-20 05:32:19,514 - tomatobar_backend - INFO - Started short break
+2025-05-20 05:32:19,514 - tomatobar_backend - INFO - Skipped current phase
+2025-05-20 05:32:25,988 - tomatobar_backend - INFO - Received command: skip
+2025-05-20 05:32:25,999 - tomatobar_backend - INFO - Logged short_break session: 6 seconds, completed: False
+2025-05-20 05:32:25,999 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:25,999 - tomatobar_backend - INFO - Skipped current phase
+2025-05-20 05:32:29,046 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:32:29,057 - tomatobar_backend - INFO - Logged work session: 4 seconds, completed: False
+2025-05-20 05:32:29,057 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:29,057 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:32:29,069 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:32:29,072 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:32:29,073 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:29,073 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:32:29,859 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:32:29,870 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:32:29,870 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:32:29,911 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:32:29,911 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:32:47,053 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:32:47,054 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:53,062 - tomatobar_backend - INFO - Received command: skip
+2025-05-20 05:32:53,075 - tomatobar_backend - INFO - Logged work session: 6 seconds, completed: False
+2025-05-20 05:32:53,077 - tomatobar_backend - INFO - Logged work session: 6 seconds, completed: False
+2025-05-20 05:32:53,152 - tomatobar_backend - INFO - Notification sent: Pomodoro completed!
+2025-05-20 05:32:53,152 - tomatobar_backend - INFO - Started short break
+2025-05-20 05:32:53,152 - tomatobar_backend - INFO - Skipped current phase
+2025-05-20 05:32:58,730 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:32:58,744 - tomatobar_backend - INFO - Logged short_break session: 5 seconds, completed: False
+2025-05-20 05:32:58,744 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:58,745 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:32:58,755 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:32:58,759 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:32:58,760 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:58,760 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:32:58,767 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:32:58,770 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:32:58,770 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:58,770 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:32:58,780 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:32:58,783 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:32:58,783 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:32:58,783 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:32:59,103 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:32:59,119 - tomatobar_backend - INFO - Logged work session: 1 seconds, completed: False
+2025-05-20 05:32:59,119 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:32:59,143 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:32:59,143 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:32:59,168 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:32:59,169 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:34:09,531 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:34:09,531 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:34:11,180 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:34:21,164 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:34:40,706 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:34:40,717 - tomatobar_backend - INFO - Logged work session: 31 seconds, completed: False
+2025-05-20 05:34:40,717 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:34:41,018 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:34:41,018 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:35:26,016 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:35:26,017 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:35:32,521 - tomatobar_backend - INFO - Received command: start
+2025-05-20 05:35:43,268 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:35:43,277 - tomatobar_backend - INFO - Logged work session: 17 seconds, completed: False
+2025-05-20 05:35:43,277 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:35:43,278 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:35:43,317 - tomatobar_backend - INFO - Received command: restart_cycle
+2025-05-20 05:35:43,321 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:35:43,322 - tomatobar_backend - INFO - Started work session
+2025-05-20 05:35:43,322 - tomatobar_backend - INFO - Restarted Pomodoro cycle
+2025-05-20 05:35:43,605 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:35:43,618 - tomatobar_backend - INFO - Logged work session: 0 seconds, completed: False
+2025-05-20 05:35:43,618 - tomatobar_backend - INFO - Reset timer
+2025-05-20 05:35:43,644 - tomatobar_backend - INFO - Received command: reset
+2025-05-20 05:35:43,644 - tomatobar_backend - INFO - Reset timer
